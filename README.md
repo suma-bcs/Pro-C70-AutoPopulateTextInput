@@ -1,1 +1,2 @@
-# Pro-C70-AutoPopulateTextInput
+# AutoPopulateTextInput
+Tab Bar icons and auto-populate text
